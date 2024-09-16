@@ -138,7 +138,7 @@ The script does basic checks for directory existence and file existence but may 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
