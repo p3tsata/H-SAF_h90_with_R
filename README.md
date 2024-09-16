@@ -87,6 +87,10 @@ nsure that the shapefile and its associated files (.dbf, .shx, etc.) are in the 
 
 5. **Run the Script**
 Execute the R script in your R environment:
+```r
+source("H-SAF_h90_with_R.R")
+```
+Or run it line by line in an interactive R session.
 
 ## Output
 
@@ -140,8 +144,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **H-SAF** - [EUMETSAT Satellite Application Facility on Support to Operational Hydrology and Water Management](https://hsaf.meteoam.it/)
 - **EUMETSAT** - European Organisation for the Exploitation of Meteorological Satellites
-
-```r
-source("H-SAF_h90_with_R.R")
-```
-Or run it line by line in an interactive R session.
