@@ -144,3 +144,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **H-SAF** - [EUMETSAT Satellite Application Facility on Support to Operational Hydrology and Water Management](https://hsaf.meteoam.it/)
 - **EUMETSAT** - European Organisation for the Exploitation of Meteorological Satellites
+
+**All intellectual property rights of the H SAF products belong to EUMETSAT. The use of these products is granted to every interested user, free of charge. If you wish to use these products, EUMETSAT's copyright credit must be shown by displaying the words "copyright (2024) EUMETSAT" on each of the products used.**
